@@ -1,0 +1,21 @@
+body {
+    background-color: rosybrown;
+    color: #1E6421;
+}
+
+.container {
+    width: 25%;
+    display: flex;
+    float: left;
+    margin-left: 5%;
+    flex-direction: column;
+    text-align: center;
+    border: 5px #1E6421 solid;
+    border-radius: 10px;
+}
+
+.companyName {
+    font-size: 75px;
+    text-align: center;
+    margin-bottom: 5%;
+}
